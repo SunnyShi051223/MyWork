@@ -1,0 +1,62 @@
+==== 该模型在最严格的嵌套 5 折交叉验证盲测中的真实表现 ====
+
+Fold/Aggregate 0:
+  - auc: 0.8086
+  - recall: 0.8235
+  - precision: 0.4516
+  - f1: 0.5833
+  - accuracy: 0.7500
+  - specificity: 0.7302
+  - aupr: 0.5499
+  - threshold: 0.3263
+
+Fold/Aggregate 1:
+  - auc: 0.8486
+  - recall: 0.8889
+  - precision: 0.5517
+  - f1: 0.6809
+  - accuracy: 0.8125
+  - specificity: 0.7903
+  - aupr: 0.6275
+  - threshold: 0.2616
+
+Fold/Aggregate 2:
+  - auc: 0.7362
+  - recall: 1.0000
+  - precision: 0.3542
+  - f1: 0.5231
+  - accuracy: 0.6076
+  - specificity: 0.5000
+  - aupr: 0.3897
+  - threshold: 0.1242
+
+Fold/Aggregate 3:
+  - auc: 0.8254
+  - recall: 0.6471
+  - precision: 0.5789
+  - f1: 0.6111
+  - accuracy: 0.8228
+  - specificity: 0.8710
+  - aupr: 0.5089
+  - threshold: 0.3101
+
+Fold/Aggregate 4:
+  - auc: 0.8264
+  - recall: 0.7647
+  - precision: 0.5200
+  - f1: 0.6190
+  - accuracy: 0.7975
+  - specificity: 0.8065
+  - aupr: 0.5142
+  - threshold: 0.2131
+
+Fold/Aggregate Mean:
+  - auc: 0.8090
+  - recall: 0.8248
+  - precision: 0.4913
+  - f1: 0.6035
+  - accuracy: 0.7581
+  - specificity: 0.7396
+  - aupr: 0.5180
+  - threshold: 0.2471
+
